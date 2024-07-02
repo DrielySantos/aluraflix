@@ -1,0 +1,13 @@
+footer{
+    margin: 50px 0;
+    text-align: center;
+}
+
+.rodapeTitle a{
+    color: #2271D1;
+    transition: all ease 0.3s;
+}
+
+.rodapeTitle a:hover{
+    color: #0050B3; 
+}
